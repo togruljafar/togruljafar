@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Togrul Jafar and I'm a full stack developer.  <img src="[togruljafar]/[METHOD]?username=[togruljafar]" />
+My name is Togrul Jafar and I'm a full stack developer.  <img src="[togruljafar]/[skills]?username=[togruljafar]" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=togruljafar&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
