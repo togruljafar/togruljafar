@@ -1,7 +1,11 @@
 ### Hi there 👋
+
+<div align="left">
+[![LinkedIn](https://img.shields.io/badge/togruljafar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/togruljafar/)    ![ViewCount](https://komarev.com/ghpvc/?username=togruljafar&color=1A4730) [![GitHub Thaiane](https://img.shields.io/github/followers/togruljafar?label=follow&style=social)](https://github.com/togruljafar)
+</div>
+
 My name is Togrul Jafar and I'm a full stack developer.
 
-[![LinkedIn](https://img.shields.io/badge/togruljafar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/togruljafar/)    ![ViewCount](https://komarev.com/ghpvc/?username=togruljafar&color=1A4730) [![GitHub Thaiane](https://img.shields.io/github/followers/togruljafar?label=follow&style=social)](https://github.com/togruljafar)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=togruljafar&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
