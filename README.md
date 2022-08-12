@@ -18,17 +18,7 @@
 - Loves a freshly brewed cup of coffee
 
 ![Metrics](https://metrics.lecoq.io/togruljafar)
-@article{metric-learn,
-  title = {metric-learn: {M}etric {L}earning {A}lgorithms in {P}ython},
-  author = {{de Vazelhes}, William and {Carey}, CJ and {Tang}, Yuan and
-            {Vauquier}, Nathalie and {Bellet}, Aur{\'e}lien},
-  journal = {Journal of Machine Learning Research},
-  year = {2020},
-  volume = {21},
-  number = {138},
-  pages = {1--6}
-}
-<!-- ![Most used languages](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/language.svg) -->
+![Most used languages](https://metrics.lecoq.io/togruljafar)
 ![Notable contributions](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/achievements.svg)
 
