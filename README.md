@@ -12,11 +12,12 @@
   </a>
 </div>
 
-### My name is Togrul Jafar and I'm a full stack developer.
+### I am Togrul Jafar.
 
-- Developer at [Codio Solutions](https://www.codio.az)
+- Software Developer at [Codio Solutions](https://www.codio.az)
 - Loves a freshly brewed cup of coffee
 
+![Metrics](https://metrics.lecoq.io/togruljafar)
 ![Metrics](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/notable.svg)
