@@ -18,12 +18,7 @@
 - Loves a freshly brewed cup of coffee
 
 ![Metrics](https://metrics.lecoq.io/togruljafar)
-- uses: lowlighter/metrics@latest
-  with:
-    template: repository
-    user: lowlighter
-    repo: metrics
-<!-- ![Most used languages] -->
+![Most used languages](https://metrics.lecoq.io/insights/togruljafar)
 <!-- ![Notable contributions](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/notable.svg) -->
 <!-- ![Achievements](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/achievements.svg) -->
 
