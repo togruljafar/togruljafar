@@ -17,7 +17,7 @@
 - Software Developer at [Codio Solutions](https://www.codio.az)
 - Loves a freshly brewed cup of coffee
 
-![Metrics](https://metrics.lecoq.io/insights/togruljafar)
+![Metrics](https://metrics.lecoq.io/togruljafar)
 <!-- ![Most used languages](https://metrics.lecoq.io/insights/togruljafar) -->
 <!-- ![Notable contributions](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/notable.svg) -->
 <!-- ![Achievements](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/achievements.svg) -->
