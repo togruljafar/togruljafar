@@ -7,7 +7,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/togruljafar/togruljafar/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/0bdc7ae6ff5c40c3aa783267cbe76a19.png?r=az4"
     />
   </a>
 </div>
