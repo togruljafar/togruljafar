@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/togruljafar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/togruljafar/)    ![ViewCount](https://komarev.com/ghpvc/?username=togruljafar&color=1A4730) [![GitHub Thaiane](https://img.shields.io/github/followers/togruljafar?label=follow&style=social)](https://github.com/togruljafar)
 
 <div align="left">
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/get?r=togruljafar" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/togruljafar/togruljafar/devcard/devcard.svg"
     />
   </a>
 </div>
@@ -28,8 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togruljafar&layout=compact&theme=gotham&custom_title=Statistics)  
 
-
-<a href="https://app.daily.dev/togruljafar"><img src="https://api.daily.dev/devcards/0bdc7ae6ff5c40c3aa783267cbe76a19.png?r=az4" width="400" alt="Togrul  Jafar's Dev Card"/></a>
 
 <!-- <a href="https://skyline.github.com/togruljafar/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
 
