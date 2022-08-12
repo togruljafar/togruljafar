@@ -18,7 +18,6 @@
 - Loves a freshly brewed cup of coffee
 
 ![Metrics](https://metrics.lecoq.io/togruljafar)
-![Metrics](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/togruljafar/togruljafar/github-metrics/achievements.svg)
