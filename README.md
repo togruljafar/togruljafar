@@ -1,16 +1,9 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" >
 
 [![LinkedIn](https://img.shields.io/badge/togruljafar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/togruljafar/)    ![ViewCount](https://komarev.com/ghpvc/?username=togruljafar&color=1A4730) [![GitHub Thaiane](https://img.shields.io/github/followers/togruljafar?label=follow&style=social)](https://github.com/togruljafar)
 
 <div align="left">
-  <a href="https://api.daily.dev/get?r=togruljafar" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/0bdc7ae6ff5c40c3aa783267cbe76a19.png?r=az4"
-    />
-  </a>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" >
 </div>
 
 ### I am Togrul Jafar.
