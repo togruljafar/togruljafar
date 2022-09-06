@@ -11,7 +11,11 @@
 
 - Software Developer at [Codio Solutions](https://www.codio.az)
 - Loves a freshly brewed cup of coffee
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togruljafar&layout=compact&theme=gotham&custom_title=Statistics)
+
 
 ![Metrics](https://metrics.lecoq.io/togruljafar)
 <!-- ![Most used languages](https://metrics.lecoq.io/insights/togruljafar) -->
