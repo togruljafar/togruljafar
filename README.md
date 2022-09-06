@@ -11,6 +11,7 @@
 
 - Software Developer at [Codio Solutions](https://www.codio.az)
 - Loves a freshly brewed cup of coffee
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togruljafar&layout=compact&theme=gotham&custom_title=Statistics)
 
 ![Metrics](https://metrics.lecoq.io/togruljafar)
 <!-- ![Most used languages](https://metrics.lecoq.io/insights/togruljafar) -->
@@ -19,9 +20,7 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=togruljafar&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togruljafar&layout=compact&theme=gotham&custom_title=Statistics)  
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->  
 
 <!-- Github jokes -->
 <!-- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" /> -->
